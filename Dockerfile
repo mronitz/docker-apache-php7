@@ -1,4 +1,4 @@
-FROM exmacademy/appservers
+FROM ubuntu:16.04
 
 MAINTAINER Maikel <mronitz@gmail.com>
 
